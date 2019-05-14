@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="app_title">Best Pie!</string>
+
+    <string name="login_username_hint">Prisijungimo vardas</string>
+    <string name="login_password_hint">Slaptažodis</string>
+    <string name="login_register_name">Registracija</string>
+
+    <string name="register_email">Email</string>
+    <string name="submit_registration">Registruotis</string>
+
+    <string name="login_name">Prisijungimas</string>
+
+    <string name="login_invalid_credentials">Blogai įvestas prisijungimo vardas ir/arba slaptažodis</string>
+
+    <string name="search_new_entry">Pridėti nauja yraša</string>
+
+    <string name="entryDatabaseInfo">Please wait, sending to Db.</string>
+    <string name="gettingfromdb">Gaunami duomenys is db</string>
+
+    <string name="newentry_name">Pavadinimas: </string>
+    <string-array name="newentry_names">
+        <item>Obuolių pyragas</item>
+        <item>Sūrio pyragas</item>
+        <item>Kavos pyragas</item>
+        <item>Šokoladinis pyragas</item>
+        <item>Vaisių pyragas</item>
+        <item>Citrinų pyragas</item>
+        <item>Jogurto pyragas</item>
+        <item>Aguonų pyragas</item>
+    </string-array>
+    <string name="newentry_size">Dydis: </string>
+    <string name="newentry_size_big">6kg</string>
+    <string name="newentry_size_medium">3kg</string>
+    <string name="newentry_size_small">1kg</string>
+    <string name="newentry_sauce">Užpilas-pabarstukai: </string>
+    <string name="topping_sokoladas">Šokoladas</string>
+    <string name="topping_rutuliukai">Spalvoti rutuliukai</string>
+    <string name="topping_figureles">Figurėlės</string>
+    <string name="topping_karamele">Karamelė</string>
+    <string name="newentry_type">Tipas: </string>
+    <string name="tipas_vienas">Vienas sluoksnis</string>
+    <string name="tipas_du">Du sluoksniai</string>
+    <string name="tipas_trys">Trys sluoksniai</string>
+    <string name="newentry_price">Kaina: </string>
+    <string name="newentry_submit">Gaminti</string>
+
+</resources>
